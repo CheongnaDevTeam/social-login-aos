@@ -42,3 +42,6 @@ presentation/src/main/res/values/themes.xml
 presentation/src/main/res/xml/backup_rules.xml
 presentation/src/main/res/xml/data_extraction_rules.xml
 presentation/src/test/java/com/kkjang/cheongna/ExampleUnitTest.kt
+.idea/gradle.xml
+.idea/deploymentTargetSelector.xml
+.idea/.name
